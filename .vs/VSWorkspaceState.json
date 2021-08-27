@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\djangoapi",
+    "\\rest_api",
+    "\\rest_api\\migrations",
+    "\\rest_api\\migrations\\__pycache__",
+    "\\rest_api\\__pycache__",
+    "\\static"
+  ],
+  "SelectedNode": "\\db.sqlite3",
+  "PreviewInSolutionExplorer": false
+}
